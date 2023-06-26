@@ -55,41 +55,12 @@ Identity and access management (IAM) refers to the processes and technologies us
 
 
 ## Technical Documentation
-
 [Step by step documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
 
 ## Presentation
-
 [Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/18yNWwQrvfefQZUqEECINo0JeCdLnlWzv/edit#slide=id.p1)
 
-## Agile Framework
-- [Jira Schedule 1](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1)
-- [Jira Schedule 2](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1/backlog)
-
 ## Q&A
-
 [Questions](https://docs.google.com/document/d/1-gS53hdiN8ZxduRnXjNI_Sga3Cw74AG0mnnstBYECh4/edit) 
 
-
-
-
-
-## Team Members
-- Alena [@alena](https://www.github.com/)
-- Ameha [@ameha01](https://github.com/orgs/cybertrainingrange/people/ameha01)
-- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
-- Diego [@dagiraldo3](https://github.com/orgs/cybertrainingrange/people/dagiraldo3)
-- Ella [@ellaowens](https://github.com/ellaowens)
-- Emilie [@emtechnode](https://github.com/emtechnode)
-- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
-- Gyan [@gyan](https://www.github.com/octokatherine)
-- Jane [@jjperipheral](https://github.com/jjperipheral)
-- Jared [@jared](https://www.github.com/)
-- Maira [@maira](https://www.github.com/)
-- Nancy [@nancyuddin](https://github.com/nancyuddin)
-- Neiman [@Neiman](https://github.com/orgs/cybertrainingrange/people/bull-in-the-heather)
-- Tyesha [@tyesha](https://www.github.com/)
-- Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
-- Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
-
-
+<!-- END -->
