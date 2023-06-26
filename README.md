@@ -1,7 +1,4 @@
-# Cyber Range Team Capstone Project Summary - Blue team  
-
-
-## 
+# Blue team  
 
 ![App Screenshot](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)
 
