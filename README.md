@@ -55,12 +55,12 @@ Identity and access management (IAM) refers to the processes and technologies us
 
 
 ## Technical Documentation
-[Step by step documentation](https://docs.google.com/document/d/1ufg-lL1YT5Pf72-AifzWMdgNiWTsxnkgHUhVdONpY-c/edit?usp=sharing)
+[Step by step documentation](https://docs.google.com/document/d/1-1ZULyu9UlCTCSqGGKjFR2CfcqHt2bbQ/edit)
 
 ## Presentation
-[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/18yNWwQrvfefQZUqEECINo0JeCdLnlWzv/edit#slide=id.p1)
+[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1tQ9pyHFA94fISLzxr-v4Muttz9tUj6ds/edit#slide=id.p1)
 
 ## Q&A
-[Questions](https://docs.google.com/document/d/1-gS53hdiN8ZxduRnXjNI_Sga3Cw74AG0mnnstBYECh4/edit) 
+[Questions](https://docs.google.com/document/d/1u1mzV-lKw_hQONvOMeY24lU831F0BAsR/edit) 
 
 <!-- END -->
